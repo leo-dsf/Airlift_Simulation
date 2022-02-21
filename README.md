@@ -18,7 +18,7 @@ $ make all_bin
 
 * Run (on the **/run/** directory):
 ```bash
-$ ./probSemSharedMemAirLift.sh
+$ ./probSemSharedMemAirLift
 ```
 
 ## Authors
