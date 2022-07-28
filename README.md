@@ -6,24 +6,24 @@ This project was developed under the Operating Systems course of [University of 
 
 ## Installation
 * Clone the repository:
-```bash
+```console
 $ git clone https://github.com/leo-dsf/Airlift_Simulation
 ```
 
 ## How To Run
 * Compile with the following command (on the **src** directory):
-```bash
+```console
 $ make all_bin
 ```
 
 * Run (on the **run** directory):
-```bash
+```console
 $ ./probSemSharedMemAirLift
 ```
 
 ## Authors
-* **Leonardo Flórido**: [leo-dsf](https://github.com/leo-dsf)
-* **Gabriel Hall**: [GabrielHall02](https://github.com/GabrielHall02)
+* **Leonardo Flórido** - [leo-dsf](https://github.com/leo-dsf)
+* **Gabriel Hall** - [GabrielHall02](https://github.com/GabrielHall02)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
