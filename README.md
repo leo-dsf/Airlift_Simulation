@@ -11,12 +11,12 @@ $ git clone https://github.com/leo-dsf/Airlift_Simulation
 ```
 
 ## How To Run
-* Compile with the following command (on the **/src/** directory):
+* Compile with the following command (on the **src/** directory):
 ```bash
 $ make all_bin
 ```
 
-* Run (on the **/run/** directory):
+* Run (on the **run/** directory):
 ```bash
 $ ./probSemSharedMemAirLift
 ```
